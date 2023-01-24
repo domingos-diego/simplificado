@@ -1,21 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/56e2dded-7b7b-4bf3-9231-b971587de09c" parent-code= "", GLOBO RPC
-http://api.magiaiptv.com/live/800401/962839/p2_EJgdlPLZH89MVH1B
+http://voxp2p.live:80/008d878bf/mauriciofv10/4943
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/bade39ca-abd1-4b9f-8aef-e9c12aca68f1" parent-code= "", SBT
-http://api.magiaiptv.com/live/800401/962839/m1_DV2bTcq67LA3L7UN_720p
+http://voxp2p.live:80/008d878bf/mauriciofv10/68532
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/12b3d817-e8b2-4233-8216-4d23973ce6cb" parent-code= "", BAND
-http://api.magiaiptv.com/live/800401/962839/m3_3zFNpotNh0Q0iR_720p
+http://voxp2p.live:80/008d878bf/mauriciofv10/453186
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d418f422-3ba5-4736-abba-8a79d9a9362c" parent-code= "", RECORD TV
-http://api.magiaiptv.com/live/800401/962839/m3_6zJcLYxLJH3bOq_720p
+http://voxp2p.live:80/008d878bf/mauriciofv10/923324
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/a1741694-b2b1-42c9-8244-73acb1c760df" parent-code= "", TV APARECIDA
-http://api.magiaiptv.com/live/800401/962839/m1_dTOv464HlnrYIj9MYyE2_720p
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/72ebab51-2435-4203-b91a-f7009218a5c4" parent-code= "", TV CULTURA
-http://api.magiaiptv.com/live/800401/962839/m2_MvNKiUyrzsEqeSBDdgmf7LIG_720p
+http://voxp2p.live:80/008d878bf/mauriciofv10/374286
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://23.237.150.122:9966/gateway/files/b053ea85-84dd-44d7-9c17-5b3a4ed0b2eb" parent-code= "", Conmebol 1
-http://api.magiaiptv.com/live/800401/962839/m2_xrNh5O0VIHWdGhbT5J_720p
+http://voxp2p.live:80/008d878bf/mauriciofv10/1014577
